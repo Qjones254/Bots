@@ -1,0 +1,28 @@
+.bot-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 8px;
+    border-radius: 4px;
+  }
+  
+  .bot-collection, .your-bot-army {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .discharge-button {
+    color: rgb(177, 11, 11);
+    font-weight: bolder;
+    border-radius: 50px;
+    background-color: rgb(240, 233, 233);
+  }
+  .texting{
+    text-align: center;
+    font-family: italic;
+    transition: 0.4s;
+  }
+  .texting:hover{
+    color: wheat;
+    font-size: xx-large;
+
+  }
